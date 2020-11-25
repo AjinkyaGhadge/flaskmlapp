@@ -1,5 +1,4 @@
 Note: This implementation was tested on Ubuntu 20.04, which is the recommended environment.
-Team members: Nikita Agarwal, Varun Prasad, Ajinkya Ghadge
 
 ### Note: The submissions for all the team members is same
 
